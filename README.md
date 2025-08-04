@@ -198,7 +198,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- **Email:** your.email@example.com
+- **Email:** shariq@lukkysolutioninc.com
 - **Issues:** [GitHub Issues](https://github.com/yourusername/covid-information-system/issues)
 - **Documentation:** [Project Docs](docs/)
 
