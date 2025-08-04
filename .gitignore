@@ -1,0 +1,48 @@
+# Database Configuration (Security)
+config/database.php
+config/db_config.php
+*.env
+
+# Sensitive Files
+*.log
+*.key
+*.pem
+
+# XAMPP/Local Development
+/vendor/
+/node_modules/
+*.tmp
+*.temp
+
+# User Uploads
+uploads/*
+!uploads/.gitkeep
+
+# Cache Files
+cache/
+tmp/
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup Files
+*.bak
+*.backup
+*.sql.backup
+
+# Error Logs
+error.log
+access.log
+php_errors.log
+
+# Session Files
+sessions/
